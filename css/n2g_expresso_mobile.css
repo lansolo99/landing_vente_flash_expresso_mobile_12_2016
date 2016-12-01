@@ -80,7 +80,7 @@ body {
   background: url("../img/n2g_theme_mobile.jpg") no-repeat;
   background-size: cover;
   background-position: 50% 50%;
-  height: 110vw;
+  height: 116vw;
   padding: 0; }
   .segment.bandeau #bandeau {
     position: relative;
@@ -134,21 +134,17 @@ body {
         margin: auto;
         width: 70%;
         position: relative;
-        left: 9vw;
-        margin-top: 1vw; }
-        .segment.bandeau #bandeau .taux .taeg div {
-          display: inline-block;
-          vertical-align: top; }
-          .segment.bandeau #bandeau .taux .taeg div:first-child {
-            font-weight: bold;
-            font-size: 3.5vw; }
-          .segment.bandeau #bandeau .taux .taeg div:last-child {
-            position: relative;
-            top: -1vw;
-            left: 2vw;
-            width: 44vw;
-            font-size: 3vw;
-            line-height: 1.4em; }
+        margin-top: 1vw;
+        text-align: center; }
+        .segment.bandeau #bandeau .taux .taeg div:first-child {
+          font-weight: bold;
+          font-size: 5vw; }
+        .segment.bandeau #bandeau .taux .taeg div:last-child {
+          position: relative;
+          text-align: center;
+          top: 1vw;
+          font-size: 3.5vw;
+          line-height: 1.4em; }
 
 /* Exemple */
 .segment.exemple {
@@ -167,7 +163,7 @@ body {
     .segment.exemple #exemple span {
       font-size: 4vw; }
     .segment.exemple #exemple strong {
-      font-size: 4.5vw; }
+      font-size: 4.8vw; }
 
 /* Simulateur */
 .segment.simulateur {
