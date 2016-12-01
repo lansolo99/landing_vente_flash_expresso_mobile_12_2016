@@ -283,6 +283,8 @@ body {
   .segment.mentions_legales #mentions_legales {
     font-size: 3.2vw;
     color: #666666; }
+    .segment.mentions_legales #mentions_legales a {
+      color: #666666; }
   .segment.mentions_legales #mentions_legales h3 {
     display: block;
     position: relative;
