@@ -112,7 +112,8 @@ body {
         text-align: center;
         text-transform: uppercase;
         font-size: 9.5vw;
-        line-height: 12vw; }
+        line-height: 12vw;
+        color: #202e3a; }
         .segment.bandeau #bandeau .titre h1 strong {
           font-style: italic; }
           .segment.bandeau #bandeau .titre h1 strong sup {
@@ -135,7 +136,8 @@ body {
         width: 70%;
         position: relative;
         margin-top: 1vw;
-        text-align: center; }
+        text-align: center;
+        color: #202e3a; }
         .segment.bandeau #bandeau .taux .taeg div:first-child {
           font-weight: bold;
           font-size: 5vw; }
